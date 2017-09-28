@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="44px" viewBox="0 0 158 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-seconary-green</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+    	<style type="text/css">
+            @font-face {
+            font-family: AvenirNext-DemiBold;
+            src: url('../fonts/Avenir Next.ttc');
+            }
+        </style>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="btn-seconary-green">
+            <g id="Group">
+                <rect id="Rectangle-11" fill="#53D98B" x="0.5" y="0" width="157" height="44" rx="22"></rect>
+                <text id="Apply-Filters" font-family="AvenirNext-DemiBold, Avenir Next" font-size="13" font-weight="500" fill="#F6F6F6">
+                    <tspan x="41.196" y="26">Apply Filters</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

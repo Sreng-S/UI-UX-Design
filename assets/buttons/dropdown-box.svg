@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="242px" height="216px" viewBox="0 0 242 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>dropdown-box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M213,4.81874876 L4.99896501,4.81874876 C2.24117574,4.81874876 0,7.05580031 0,9.81534323 L0,210.356527 C0,213.113597 2.23811287,215.353121 4.99896501,215.353121 L237.001035,215.353121 C239.758824,215.353121 242,213.116069 242,210.356527 L242,9.81534323 C242,7.05827247 239.761887,4.81874876 237.001035,4.81874876 L223,4.81874876 L218.71184,0.639096025 C218.322586,0.25969132 217.681298,0.255905346 217.28816,0.639096025 L213,4.81874876 Z" id="path-1"></path>
+        <filter x="-9.1%" y="-9.3%" width="118.2%" height="120.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.108695652 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dropdown-box">
+            <g>
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M23.5,63.5 L241.949079,63.5" id="Line" stroke="#EAEAEA" opacity="0.400000006" stroke-linecap="square"></path>
+                <path d="M23.5,164.5 L241.949079,164.5" id="Line-Copy" stroke="#EAEAEA" opacity="0.400000006" stroke-linecap="square"></path>
+                <text id="Add-User" font-family="AvenirNext-DemiBold, Avenir Next" font-size="12" font-weight="500" fill="#393C49">
+                    <tspan x="53" y="41">Add User</tspan>
+                </text>
+                <g id="Group-4" transform="translate(23.000000, 81.000000)">
+                    <path d="M0.5,33.5 L218.949079,33.5" id="Line" stroke="#EAEAEA" opacity="0.400000006" stroke-linecap="square"></path>
+                    <path d="M0.5,83.5 L218.949079,83.5" id="Line" stroke="#EAEAEA" opacity="0.400000006" stroke-linecap="square"></path>
+                    <text id="Add-Order" font-family="AvenirNext-DemiBold, Avenir Next" font-size="12" font-weight="500" fill="#383E39">
+                        <tspan x="30" y="12">Add Order</tspan>
+                    </text>
+                    <text id="Add-Product" font-family="AvenirNext-DemiBold, Avenir Next" font-size="12" font-weight="500" fill="#383E39">
+                        <tspan x="30" y="62">Add Product</tspan>
+                    </text>
+                </g>
+                <g id="Group-4-Copy" transform="translate(53.000000, 182.000000)" font-size="12" font-family="AvenirNext-DemiBold, Avenir Next" fill="#383E39" font-weight="500">
+                    <text id="Add-Vendor">
+                        <tspan x="0" y="12">Add Vendor</tspan>
+                    </text>
+                </g>
+                <g id="btn-add-small" transform="translate(22.000000, 27.000000)">
+                    <g id="Group">
+                        <circle id="Oval-4" fill="#53D98B" cx="10" cy="10" r="10"></circle>
+                        <path d="M11.6257816,9.87493987 L10.1250601,9.87493987 L10.1250601,8.37421837 C10.1250601,8.30516017 10.0690582,8.24915825 10,8.24915825 C9.9309418,8.24915825 9.87493987,8.30516017 9.87493987,8.37421837 L9.87493987,9.87493987 L8.37421837,9.87493987 C8.30516017,9.87493987 8.24915825,9.9309418 8.24915825,10 C8.24915825,10.0690582 8.30516017,10.1250601 8.37421837,10.1250601 L9.87493987,10.1250601 L9.87493987,11.6257816 C9.87493987,11.6948398 9.9309418,11.7508418 10,11.7508418 C10.0690582,11.7508418 10.1250601,11.6948398 10.1250601,11.6257816 L10.1250601,10.1250601 L11.6257816,10.1250601 C11.6948398,10.1250601 11.7508418,10.0690582 11.7508418,10 C11.7508418,9.9309418 11.6948398,9.87493987 11.6257816,9.87493987 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.6" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g id="btn-add-small" transform="translate(22.000000, 79.000000)">
+                    <g id="Group">
+                        <circle id="Oval-4" fill="#53D98B" cx="10" cy="10" r="10"></circle>
+                        <path d="M11.6257816,9.87493987 L10.1250601,9.87493987 L10.1250601,8.37421837 C10.1250601,8.30516017 10.0690582,8.24915825 10,8.24915825 C9.9309418,8.24915825 9.87493987,8.30516017 9.87493987,8.37421837 L9.87493987,9.87493987 L8.37421837,9.87493987 C8.30516017,9.87493987 8.24915825,9.9309418 8.24915825,10 C8.24915825,10.0690582 8.30516017,10.1250601 8.37421837,10.1250601 L9.87493987,10.1250601 L9.87493987,11.6257816 C9.87493987,11.6948398 9.9309418,11.7508418 10,11.7508418 C10.0690582,11.7508418 10.1250601,11.6948398 10.1250601,11.6257816 L10.1250601,10.1250601 L11.6257816,10.1250601 C11.6948398,10.1250601 11.7508418,10.0690582 11.7508418,10 C11.7508418,9.9309418 11.6948398,9.87493987 11.6257816,9.87493987 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.6" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g id="btn-add-small" transform="translate(22.000000, 128.000000)">
+                    <g id="Group">
+                        <circle id="Oval-4" fill="#53D98B" cx="10" cy="10" r="10"></circle>
+                        <path d="M11.6257816,9.87493987 L10.1250601,9.87493987 L10.1250601,8.37421837 C10.1250601,8.30516017 10.0690582,8.24915825 10,8.24915825 C9.9309418,8.24915825 9.87493987,8.30516017 9.87493987,8.37421837 L9.87493987,9.87493987 L8.37421837,9.87493987 C8.30516017,9.87493987 8.24915825,9.9309418 8.24915825,10 C8.24915825,10.0690582 8.30516017,10.1250601 8.37421837,10.1250601 L9.87493987,10.1250601 L9.87493987,11.6257816 C9.87493987,11.6948398 9.9309418,11.7508418 10,11.7508418 C10.0690582,11.7508418 10.1250601,11.6948398 10.1250601,11.6257816 L10.1250601,10.1250601 L11.6257816,10.1250601 C11.6948398,10.1250601 11.7508418,10.0690582 11.7508418,10 C11.7508418,9.9309418 11.6948398,9.87493987 11.6257816,9.87493987 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.6" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g id="btn-add-small" transform="translate(22.000000, 180.000000)">
+                    <g id="Group">
+                        <circle id="Oval-4" fill="#53D98B" cx="10" cy="10" r="10"></circle>
+                        <path d="M11.6257816,9.87493987 L10.1250601,9.87493987 L10.1250601,8.37421837 C10.1250601,8.30516017 10.0690582,8.24915825 10,8.24915825 C9.9309418,8.24915825 9.87493987,8.30516017 9.87493987,8.37421837 L9.87493987,9.87493987 L8.37421837,9.87493987 C8.30516017,9.87493987 8.24915825,9.9309418 8.24915825,10 C8.24915825,10.0690582 8.30516017,10.1250601 8.37421837,10.1250601 L9.87493987,10.1250601 L9.87493987,11.6257816 C9.87493987,11.6948398 9.9309418,11.7508418 10,11.7508418 C10.0690582,11.7508418 10.1250601,11.6948398 10.1250601,11.6257816 L10.1250601,10.1250601 L11.6257816,10.1250601 C11.6948398,10.1250601 11.7508418,10.0690582 11.7508418,10 C11.7508418,9.9309418 11.6948398,9.87493987 11.6257816,9.87493987 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.6" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

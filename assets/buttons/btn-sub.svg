@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="39px" viewBox="0 0 104 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-sub</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="btn-sub">
+            <g id="Subnav-messages">
+                <g id="Group-13">
+                    <g id="Group-12">
+                        <g id="Group-14">
+                            <rect id="Rectangle-11" fill="#53D98B" x="0" y="0" width="103.261364" height="39" rx="6"></rect>
+                            <text id="Change-Avatar" font-family="AvenirNext-DemiBold, Avenir Next" font-size="11" font-weight="500" fill="#F6F6F6">
+                                <tspan x="14.2865" y="23">Change Avatar</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

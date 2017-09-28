@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-arrow-left-a</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-arrow-left-a">
+            <g>
+                <polygon id="Bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                <path d="M14.705,17.795 C15.0943607,17.4056393 15.0951981,16.7745107 14.7044122,16.3828716 L10.83,12.5 L14.7044122,8.61712838 C15.0940976,8.22659216 15.0970753,7.5970753 14.705,7.205 L14.705,7.205 C14.3156393,6.81563925 13.6774139,6.82258606 13.2881596,7.21184039 L8.71184039,11.7881596 C8.3187018,12.1812982 8.32258606,12.8225861 8.71184039,13.2118404 L13.2881596,17.7881596 C13.6812982,18.1812982 14.3129247,18.1870753 14.705,17.795 L14.705,17.795 Z" id="Icon" stroke="#FFFFFF" stroke-width="0.5" fill="#393C49"></path>
+            </g>
+        </g>
+    </g>
+</svg>

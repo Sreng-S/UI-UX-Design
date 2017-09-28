@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="325px" height="51px" viewBox="0 0 325 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-main-hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="btn-main-hover">
+            <g>
+                <rect id="Rectangle" fill="#48C6E0" x="0" y="0" width="325" height="51" rx="12"></rect>
+                <text id="Let’s-Get-Started." font-family="AvenirNext-DemiBold, Avenir Next" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="117.632" y="30">Main Button</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

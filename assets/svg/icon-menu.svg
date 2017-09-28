@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="icon-menu" stroke="#393C49" stroke-width="2">
+            <g transform="translate(0.000000, 0.500000)">
+                <path d="M0.272727273,1.68181818 L18.2727273,1.68181818" id="Line"></path>
+                <path d="M0.272727273,8.5 L18.2727273,8.5" id="Line-Copy"></path>
+                <path d="M0.272727273,15.3181818 L12.2727273,15.3181818" id="Line-Copy-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

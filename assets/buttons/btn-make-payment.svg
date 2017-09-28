@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="44px" viewBox="0 0 148 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-add</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <style type="text/css">
+            @font-face {
+            font-family: AvenirNext-Bold;
+            src: url('../fonts/Avenir Next Bold.otf');
+            }
+        </style>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="btn-add">
+            <g id="cta">
+                <g id="btn-copy-2">
+                    <rect id="Rectangle-28" fill="#53D98B" x="0" y="0" width="148" height="44" rx="22"></rect>
+                    <text id="Add-Products" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500" fill="#FBFBFB">
+                        <tspan x="40" y="26">Make Payment</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
